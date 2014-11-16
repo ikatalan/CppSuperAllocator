@@ -1,8 +1,24 @@
-// MemoryAllocator.h: interface for the CSuperAllocator class. 
+//  Copyright 2008-2014 Idan Katalan
+//  SuperAllocator.hpp: interface for the CSuperAllocator class. 
+//  This file is part of CppSuperAllocator.
+
+//   CppSuperAllocator is free software: you can redistribute it and/or modify
+//   it under the terms of the GNU General Public License as published by
+//   the Free Software Foundation, either version 3 of the License, or
+//   (at your option) any later version.
+
+//   CppSuperAllocator is distributed in the hope that it will be useful,
+//   but WITHOUT ANY WARRANTY; without even the implied warranty of
+//   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+//   GNU General Public License for more details.
+
+//   You should have received a copy of the GNU General Public License
+//   along with CppSuperAllocator.  If not, see <http://www.gnu.org/licenses/>.
 //
-// Developed By: Idan Katalan
+//   Developed By: Idan Katalan ikatalan at gmail dot com
 //
 //////////////////////////////////////////////////////////////////////
+
 
 #if !defined(AFX_SUPERALLOCATOR_H__6FDECF4B_88AD_4BCD_8A13_2EA7219BF1F3__INCLUDED_)
 #define AFX_SUPERALLOCATOR_H__6FDECF4B_88AD_4BCD_8A13_2EA7219BF1F3__INCLUDED_
